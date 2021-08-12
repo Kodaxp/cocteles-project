@@ -1,0 +1,14 @@
+.card-container-cocteles {
+  width: 300px;
+  height: 500px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 15px;
+  display: flex;
+  overflow: hidden;
+
+  .img-coctel {
+    width: 100%;
+    height: 400px;
+  }
+}
